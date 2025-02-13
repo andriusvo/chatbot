@@ -6,6 +6,10 @@ Welcome to the Turing Chatbot App! This project is a web application built with 
 
 - **Chatbot:** Chatbot that is running OpenAI under the hood
 
+## Preview live
+
+[Click here to preview](https://chatbot-a5jkxdvm6wburdsrkjeym3.streamlit.app/)
+
 ---
 
 ## Getting Started
